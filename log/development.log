@@ -1,0 +1,410 @@
+  [1m[35m (162.6ms)[0m  [1m[35mCREATE DATABASE "mysite_development" ENCODING = 'unicode'[0m
+  [1m[35m (182.5ms)[0m  [1m[35mCREATE DATABASE "mysite_test" ENCODING = 'unicode'[0m
+Started GET "/" for ::1 at 2023-04-22 14:56:54 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 3.5ms | Allocations: 575)
+  Rendered layout layouts/application.html.erb (Duration: 20.6ms | Allocations: 5914)
+Completed 500 Internal Server Error in 43ms (ActiveRecord: 0.0ms | Allocations: 13061)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:13
+Started GET "/" for ::1 at 2023-04-22 14:57:19 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 150)
+  Rendered layout layouts/application.html.erb (Duration: 30.7ms | Allocations: 10332)
+Completed 500 Internal Server Error in 37ms (ActiveRecord: 0.0ms | Allocations: 11433)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2023-04-22 14:57:47 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 2501)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms | Allocations: 2798)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2023-04-22 15:02:02 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 5223)
+Completed 500 Internal Server Error in 43ms (ActiveRecord: 0.0ms | Allocations: 11201)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2023-04-22 15:02:07 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | Allocations: 2706)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms | Allocations: 3024)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2023-04-22 15:02:51 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 150)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | Allocations: 336)
+Completed 200 OK in 7ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 1495)
+
+
+Started GET "/" for ::1 at 2023-04-22 15:04:01 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 150)
+  Rendered layout layouts/application.html.erb (Duration: 15.9ms | Allocations: 10348)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms | Allocations: 11451)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:13
+Started GET "/" for ::1 at 2023-04-22 15:04:47 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 26.4ms | Allocations: 9659)
+Completed 500 Internal Server Error in 29ms (ActiveRecord: 0.0ms | Allocations: 9955)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:13
+Started GET "/" for ::1 at 2023-04-22 15:09:56 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 19.8ms | Allocations: 5238)
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 0.0ms | Allocations: 11217)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:13
+Started GET "/" for ::1 at 2023-04-22 15:18:34 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 13.1ms | Allocations: 5206)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms | Allocations: 11207)
+
+
+  
+ActionView::Template::Error (Error: File to import not found or unreadable: bootstrap/scss/bootstrap.
+        on line 8:2 of app/assets/stylesheets/application.scss
+>>  @import "bootstrap/scss/bootstrap";
+
+   -^
+):
+    10:     <%= csrf_meta_tags %>
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/assets/stylesheets/application.scss:8
+app/views/layouts/application.html.erb:13
+Started GET "/" for ::1 at 2023-04-22 15:21:06 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 24.1ms | Allocations: 6490)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms | Allocations: 12491)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad48>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:22:55 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 22.5ms | Allocations: 6490)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.0ms | Allocations: 12493)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad48>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:26:48 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 24.0ms | Allocations: 6490)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms | Allocations: 12491)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad48>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:27:17 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 150)
+  Rendered layout layouts/application.html.erb (Duration: 3.1ms | Allocations: 1020)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 2195)
+
+
+Started GET "/" for ::1 at 2023-04-22 15:29:03 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 28.3ms | Allocations: 6652)
+Completed 500 Internal Server Error in 37ms (ActiveRecord: 0.0ms | Allocations: 12653)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_packs_with_chunks_tag' for #<ActionView::Base:0x0000000000ad48>
+Did you mean?  javascript_cdata_section):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_packs_with_chunks_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:     </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:29:09 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 39.2ms | Allocations: 4722)
+Completed 500 Internal Server Error in 42ms (ActiveRecord: 0.0ms | Allocations: 5045)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_packs_with_chunks_tag' for #<ActionView::Base:0x0000000000b068>
+Did you mean?  javascript_cdata_section):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_packs_with_chunks_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:     </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:31:39 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 27.9ms | Allocations: 6593)
+Completed 500 Internal Server Error in 36ms (ActiveRecord: 0.0ms | Allocations: 12594)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad48>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:34:28 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 25.1ms | Allocations: 6174)
+Completed 500 Internal Server Error in 33ms (ActiveRecord: 0.0ms | Allocations: 12175)
+
+
+  
+ActionView::Template::Error (undefined method `stylesheet_pack_tag' for #<ActionView::Base:0x0000000000ad48>
+Did you mean?  stylesheet_path
+               stylesheet_link_tag):
+    10:     <%= csrf_meta_tags %>
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_pack_tag 'some', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:13
+Started GET "/" for ::1 at 2023-04-22 15:37:50 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 21.6ms | Allocations: 6593)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.0ms | Allocations: 12594)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad70>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:37:52 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 22.5ms | Allocations: 4664)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.0ms | Allocations: 4987)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000b090>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:40:16 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 22.5ms | Allocations: 6583)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.0ms | Allocations: 12584)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad70>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag :the_one_with_turbolinks %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:40:44 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 150)
+  Rendered layout layouts/application.html.erb (Duration: 29.6ms | Allocations: 5113)
+Completed 500 Internal Server Error in 36ms (ActiveRecord: 0.0ms | Allocations: 6220)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000b108>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag :the_one_with_shubox %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:40:50 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 22.3ms | Allocations: 6583)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms | Allocations: 12584)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for #<ActionView::Base:0x0000000000ad70>
+Did you mean?  javascript_path
+               javascript_tag):
+    11:     <%= csp_meta_tag %>
+    12: 
+    13:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    14:     <%= javascript_pack_tag :the_one_with_shubox %>
+    15:   </head>
+    16: </html>
+  
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2023-04-22 15:41:06 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 150)
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 3003)
+Completed 200 OK in 15ms (Views: 12.7ms | ActiveRecord: 0.0ms | Allocations: 4178)
+
+
