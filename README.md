@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+-> rails new render-deploy --database=postgresql -j esbuild
