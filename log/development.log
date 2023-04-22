@@ -408,3 +408,12 @@ Processing by RenderController#index as HTML
 Completed 200 OK in 15ms (Views: 12.7ms | ActiveRecord: 0.0ms | Allocations: 4178)
 
 
+Started GET "/" for ::1 at 2023-04-22 15:54:33 -0300
+Processing by RenderController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering render/index.html.erb within layouts/application
+  Rendered render/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 470)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 3627)
+Completed 200 OK in 35ms (Views: 12.8ms | ActiveRecord: 0.0ms | Allocations: 9675)
+
+
